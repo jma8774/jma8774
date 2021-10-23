@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<!--
-**jma8774/jma8774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate that is currently looking for new full-time opportunities as a Software Engineer.
 
-Here are some ideas to get you started:
+My portfolio can be found [here](https://www.jiamingma.me/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ I love writing code and experimenting with new ideas
+
+😃 Enjoy meeting and working with new people
+
+🖥️ Am always down to learn about new technologies
+
+⚡ Currently obsessed with React and Express
+
+## Contacts
+
+You can reach out to me at this [email](jiamingma1998@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jma8774/).
