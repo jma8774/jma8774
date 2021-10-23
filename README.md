@@ -4,11 +4,11 @@ I am an undergraduate that is currently looking for new full-time opportunities 
 
 My portfolio can be found [here](https://www.jiamingma.me/).
 
-❤️ I love writing code and experimenting with new ideas
+❤️ Love writing code and experimenting with new ideas
 
 😃 Enjoy meeting and working with new people
 
-🖥️ Am always down to learn about new technologies
+🖥️ Always down to learn about new technologies
 
 ⚡ Currently obsessed with React and Express
 
