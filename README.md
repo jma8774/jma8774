@@ -10,7 +10,7 @@ My portfolio can be found [here](https://www.jiamingma.me/).
 
 🖥️ Always down to learn about new technologies
 
-⚡ Currently obsessed with React and Express
+⚡ Currently obsessed with React, TypeScript, and Docker
 
 ## Contacts
 
